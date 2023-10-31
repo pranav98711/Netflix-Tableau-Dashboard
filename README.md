@@ -3,15 +3,13 @@
 
 ## Data Import:
 
-The project begins with the import of a CSV file containing Netflix data, which includes 12 fields and over 6,000 rows. The fields include information like show ID, type (movie or TV show), titles, directors, cast, date added, release year, rating, duration, categories, and descriptions.
-
-## Data Connection and Preparation:
-
-The project begins with the import of a CSV file containing Netflix data, which includes 12 fields and over 6,000 rows. The fields include information like show ID, type (movie or TV show), titles, directors, cast, date added, release year, rating, duration, categories, and descriptions. Tableau automatically recognizes the data fields and structures them accordingly .
+The project begins with the import of a [CSV files]([https://pages.github.com/](https://github.com/pranav98711/Netflix-Tableau-Dashboard/blob/main/Dataset/netflix_titles.xls)) containing Netflix data, which includes 12 fields and over 6,000 rows. The fields include information like show ID, type (movie or TV show), titles, directors, cast, date added, release year, rating, duration, categories, and descriptions. Tableau automatically recognizes the data fields and structures them accordingly.
 Tableau's data preparation capabilities, including data cleansing and transformation, can be employed to handle null values, correct data types, and ensure data integrity. However, the data is pretty clean, adapted for using in Tableau, so not much preprocessing is required. There is no problematic outliers either. 
-Here are some screenshots of the Data Source Page. The Fields section shows the different parameters present in our data 
+Here are some screenshots of the Data Source Page. The Fields section shows the different parameters present in our data.
+
 ![](https://github.com/pranav98711/Netflix-Tableau-Dashboard/blob/main/Images/data_1.png)
-and the other screenshot shows the sample 100 rows from dataset with their values.
+
+This other screenshot shows the sample 100 rows from dataset with their values.
 
 ![](https://github.com/pranav98711/Netflix-Tableau-Dashboard/blob/main/Images/data_2.png)
 ![](https://github.com/pranav98711/Netflix-Tableau-Dashboard/blob/main/Images/data_3.png)
