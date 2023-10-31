@@ -1,5 +1,6 @@
 # Netflix-Tableau-Dashboard
 
+![](https://github.com/pranav98711/Netflix-Tableau-Dashboard/blob/main/Images/2023-10-31-14-03-18_uprADyco.mkv)
 
 ## Data Import:
 
