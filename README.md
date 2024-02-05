@@ -54,6 +54,8 @@ Individual content details, such as descriptions, date added, duration, ratings,
 
 ![](https://github.com/pranav98711/Netflix-Tableau-Dashboard/blob/main/Images/6.png)
 
+Publish Dashboard -> https://public.tableau.com/app/profile/pranav.sorte/viz/NetflixTableauDashboard_17071363290680/Netflix?publish=yes#WelcomeQuestionnaire
+
 The Netflix dashboard is crafted by integrating multiple worksheets as previously detailed into a cohesive interface. Interactive filters are thoughtfully incorporated, affording users control over their data exploration. These filters are designed by incorporating distinct fields such as "Type" and "Titles" within the dashboard.
 
 When a specific content type and title are selected, the dashboard dynamically presents the associated details including Description, Date Added, Duration, Rating, Release Year, Genre, and more. In addition to this individual content view, the dashboard also offers a comprehensive summary encompassing the aggregate counts of movies and TV shows over different years and geographical regions. It also highlights the top content genres and other key insights.
